@@ -30,7 +30,7 @@ spider_Man = Movie("Spider-Man",
                     "http://t1.gstatic.com/images?q=tbn:ANd9GcQVzjsQN4VSZaWDXWYf1dCLQ6fU3ArTWTMh9fwmYcMke_RsOgP6",   # NOQA
                    "https://www.youtube.com/watch?v=xrzXIaTt99U")
 
-Insurgent = Movie(
+insurgent = Movie(
     "The Divergent Series: Insurgent",
     "Insurgent raises the stakes for Tris as she searches for allies "
     "and answers in the ruins of a futuristic Chicago.",
@@ -74,6 +74,6 @@ arrival = Movie("Arrival", "Linguistics professor Louise Banks (Amy Adams)"
 
 # this is the movies list which will be sent to open movies function
 movies = [toy_story, avatar, divergent, deadpool,
-          captain_america, star_trek, spider_Man, Insurgent, arrival]
-          
+          captain_america, star_trek, spider_Man, insurgent, arrival]
+
 fresh_tomatoes.open_movies_page(movies)
