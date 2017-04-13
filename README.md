@@ -2,14 +2,10 @@
 In this project,we have a Movie Trailer Website where you can see your favorite movies and watch the trailers.
 ## Table of contents
 
-- [Demo](#demo)
 - [Quick start](#quick-start)
 - [Documentation](#documentation)
 - [Copyright and license](#copyright-and-license)
 
-## Demo
-
-For a demo, check out <>!
 
 ## Quick Start
 
