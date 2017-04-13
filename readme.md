@@ -14,7 +14,7 @@ For a demo, check out <>!
 ## Quick Start
 
 After downloading the project files,
- a movie trailer page can be created by importing **media.py**
+ a movie trailer page can be created by importing [media.py](https://github.com/raymondjo/Movie-trailer-project/blob/master/media.py)
   and **fresh_tomatoes.py** in **entertainment_center.py** file
 Then create individual Movie objects by calling media.Movie()
 and supplying it with four arguments 
