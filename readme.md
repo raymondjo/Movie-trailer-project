@@ -15,23 +15,13 @@ For a demo, check out <>!
 
 After downloading the project files,
  a movie trailer page can be created by importing [media.py](https://github.com/raymondjo/Movie-trailer-project/blob/master/media.py)
-  and **fresh_tomatoes.py** in **entertainment_center.py** file
+  and [fresh_tomatoes.py](https://github.com/raymondjo/Movie-trailer-project/blob/master/fresh_tomatoes.py) in [entertainment_center.py](https://github.com/raymondjo/Movie-trailer-project/blob/master/entertainment_center.py) file
 Then create individual Movie objects by calling media.Movie()
 and supplying it with four arguments 
 -- title,  poster_url, and trailer_url. Lastly, 
  generate the movie trailers page by calling fresh_tomatoes.open_movies_page() 
 and supply it with an array of the movie objects that's created. 
 
-
-
-
-
-divergent = Movie(
-    "Divergent",
-    "A thrilling action-adventure film set in a world where people are "
-    "divided into distinct factions based on human virtues.",
-    "https://upload.wikimedia.org/wikipedia/en/d/d4/Divergent.jpg",
-    "https://youtu.be/336qJITnDi0")
 
 ```
 import media
