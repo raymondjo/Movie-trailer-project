@@ -59,7 +59,7 @@ Within the download you'll find the following directories and files:
 
 The Movie object class consists of four class variables, 
 a simple constructor method, and a class method for playing a Movie object's movie trailer.
- The code is located in **media.py**. 
+ The code is located in [media.py](https://github.com/raymondjo/Movie-trailer-project/blob/master/media.py). 
 
 ##### constructor method
 
@@ -90,7 +90,7 @@ show_trailer can be called on any Movie class object to launch that object's mov
 
 ### Movie Trailer Page Functions 
 
-The functions used to create the final movie trailers page are located in **fresh_tomatoes.py**.
+The functions used to create the final movie trailers page are located in [fresh_tomatoes.py](https://github.com/raymondjo/Movie-trailer-project/blob/master/fresh_tomatoes.py).
 
 ## Copyright and License
 
